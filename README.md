@@ -1,27 +1,27 @@
 ## Hi there 👋
 
 ### About Me
-I am passionate about coding and always eager to learn new technologies. Here are some of the things I am currently working on and learning:
+I'm a developer passionate about building full-stack applications and exploring the world of AI and cloud computing. I enjoy tackling complex problems and am always eager to learn new technologies to create efficient and scalable solutions.
 
-### Current Projects
-- [DAA_Practice](https://github.com/NotYash1066/DAA_Practice): Practicing Design and Analysis of Algorithms in C++.
-- [SEPP_Project](https://github.com/NotYash1066/SEPP_Project): Managing the SEPP project for Airline MS using HTML.
-- [Django_Lab](https://github.com/NotYash1066/Django_Lab): Experimenting with the Django framework in Python.
-- [JDBC_Demo](https://github.com/NotYash1066/JDBC_Demo): Demonstrating JDBC concepts with Java.
+### 🚀 What I'm Currently Building
+- **Hireassist**: An AI-powered application built with Flutter to streamline the hiring process.
+- **Skill Swap**: A full-stack skill-swapping platform developed using the MERN (MongoDB, Express, React, Node.js) stack.
+- **WAD .NET Project**: A robust web application built with the .NET Core framework.
 
-### What I'm Learning
-- 🌱 Currently enhancing my skills in Python and Django.
-- 🌱 Learning more about JDBC and database management.
+### 🌱 What I'm Learning
+- **Artificial Intelligence & Machine Learning**: Diving into the fundamentals of AI/ML and exploring the exciting field of Generative AI.
+- **Cloud Computing**: Gaining hands-on experience with cloud platforms like Google Cloud (GCP) and AWS to deploy and manage applications.
+- **Full-Stack Development**: Deepening my skills in the MERN stack and .NET Core for building end-to-end applications.
 
-### Collaboration
-- 👯 I’m looking to collaborate on open source projects, especially those related to web development and data structures.
-- 🤔 I’m looking for help with advanced Django practices and optimizing database queries.
+### 🤝 Collaboration
+- I’m looking to collaborate on open-source projects, especially those involving the **MERN stack, Flutter, AI/ML, or cloud infrastructure**.
+- I’m looking for help with advanced concepts in Generative AI and best practices for multi-cloud deployments.
 
-### Reach Out
-- 💬 Ask me about web development, Python, and C++.
-- 📫 How to reach me: [NotYash1066](https://github.com/NotYash1066)
+### 📫 How to Reach Me
+- Ask me about Web Development (MERN, .NET), Mobile Development (Flutter), or the basics of AI/ML.
+- Connect with me on [GitHub](https://github.com/NotYash1066). *(Consider adding your LinkedIn or Twitter profile here!)*
 
 ### Fun Fact
-- ⚡ I love exploring new programming languages and frameworks in my free time.
+- ⚡ I love architecting solutions that span across different technologies, from a mobile front-end in Flutter to a cloud-hosted AI backend.
 
 Feel free to check out my repositories and get in touch!
