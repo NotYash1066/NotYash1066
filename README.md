@@ -1,27 +1,36 @@
-## Hi there 👋
+# Hi there 👋, I'm Yash!
 
-### About Me
-I'm a developer passionate about building full-stack applications and exploring the world of AI and cloud computing. I enjoy tackling complex problems and am always eager to learn new technologies to create efficient and scalable solutions.
+I'm a 3rd-year Computer Engineering student at Dharmsinh Desai University, currently pursuing my B.Tech degree.  
+Just another dev surviving on a tight sleep budget and coffee ☕ — always ready for a challenge!
 
-### 🚀 What I'm Currently Building
-- **Hireassist**: An AI-powered application built with Flutter to streamline the hiring process.
-- **Skill Swap**: A full-stack skill-swapping platform developed using the MERN (MongoDB, Express, React, Node.js) stack.
-- **WAD .NET Project**: A robust web application built with the .NET Core framework.
+## 🚀 Tech Skills
 
-### 🌱 What I'm Learning
-- **Artificial Intelligence & Machine Learning**: Diving into the fundamentals of AI/ML and exploring the exciting field of Generative AI.
-- **Cloud Computing**: Gaining hands-on experience with cloud platforms like Google Cloud (GCP) and AWS to deploy and manage applications.
-- **Full-Stack Development**: Deepening my skills in the MERN stack and .NET Core for building end-to-end applications.
+- **Languages:** C, C++, C#, Python, Java, Dart, JavaScript, TypeScript
+- **Frameworks:** Node.js, React, Angular, .NET Core, .NET Framework, Flutter
+- **Tools & Platforms:** VS Code, Git, Linux
+- **Soft Skills:** Problem solving, analytical skills, communication
 
-### 🤝 Collaboration
-- I’m looking to collaborate on open-source projects, especially those involving the **MERN stack, Flutter, AI/ML, or cloud infrastructure**.
-- I’m looking for help with advanced concepts in Generative AI and best practices for multi-cloud deployments.
+## 🌟 Favorite Project
 
-### 📫 How to Reach Me
-- Ask me about Web Development (MERN, .NET), Mobile Development (Flutter), or the basics of AI/ML.
-- Connect with me on [GitHub](https://github.com/NotYash1066). *(Consider adding your LinkedIn or Twitter profile here!)*
+- [HireAssist](https://github.com/NotYash1066/HireAssist)  
+  My favorite project — a smart assistant to streamline the hiring process.
 
-### Fun Fact
-- ⚡ I love architecting solutions that span across different technologies, from a mobile front-end in Flutter to a cloud-hosted AI backend.
+## 👾 About Me
 
-Feel free to check out my repositories and get in touch!
+- Night owl 🌙
+- Loves coffee (a lot)
+- Competitive gamer 🎮
+- Always up for problem solving and learning new tech
+
+<!--
+## 🔗 Other Projects
+
+- [SSIP_Repo](https://github.com/NotYash1066/SSIP_Repo)
+- [Skill-Swap](https://github.com/NotYash1066/Skill-Swap)
+- [StoryMate](https://github.com/NotYash1066/StoryMate)
+-->
+
+Feel free to connect or check out my repositories!
+
+---
+_“Surviving with tight sleep budget and coffee.”_
